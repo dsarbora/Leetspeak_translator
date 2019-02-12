@@ -1,0 +1,9 @@
+C:\Users\Dave\source\repos\EliteTranslator\Leet\bin\Debug\netcoreapp1.1\Leet.deps.json
+C:\Users\Dave\source\repos\EliteTranslator\Leet\bin\Debug\netcoreapp1.1\Leet.dll
+C:\Users\Dave\source\repos\EliteTranslator\Leet\bin\Debug\netcoreapp1.1\Leet.pdb
+C:\Users\Dave\source\repos\EliteTranslator\Leet\obj\Debug\netcoreapp1.1\Leet.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\EliteTranslator\Leet\obj\Debug\netcoreapp1.1\Leet.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\EliteTranslator\Leet\obj\Debug\netcoreapp1.1\Leet.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\EliteTranslator\Leet\obj\Debug\netcoreapp1.1\Leet.AssemblyInfo.cs
+C:\Users\Dave\source\repos\EliteTranslator\Leet\obj\Debug\netcoreapp1.1\Leet.dll
+C:\Users\Dave\source\repos\EliteTranslator\Leet\obj\Debug\netcoreapp1.1\Leet.pdb

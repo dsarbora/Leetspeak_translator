@@ -29,8 +29,8 @@ namespace Leetspeak
                     case 't':
                         return '7';
                         break;
-                    case 'I':
-                        return '1';
+                    case 'i':
+                        return '!';
                         break;
                     case 's':
                         return '$';
